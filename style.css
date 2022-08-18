@@ -1,0 +1,41 @@
+body{
+  background-color: #000000;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 100;
+  margin: auto;
+  border: solid;
+  align-items: center;
+  }
+nav{
+background-color: #000000;
+font-size: 15px;
+}
+nav a{
+  color: red;
+  margin-right: 20px;
+}
+nav a:hover{
+background-color: #fbff00;
+}
+.titulo{
+  color: yellow;
+  font-size: 25px;
+  width: 1000px;
+ font-family: 'Gentium Book Plus', serif;
+}
+.titulo h1{
+  margin: 0;
+}
+.titulo h5{
+  margin: 0;
+}
+img{
+  height: 700px;
+  width: 1000px;
+}
+button{
+  background-color: red;
+}
